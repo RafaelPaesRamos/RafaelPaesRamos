@@ -1,8 +1,6 @@
 ### Oi bem vindo ao meu perfil 👋
 
  <div>
- <img src="![program](https://user-images.githubusercontent.com/82539582/196069811-b96a9e7f-6b0e-4a2d-ad01-371ceb48356b.gif)
-" alt="Programa">
    <a href="https://github.com/RafaelPaesRamos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelPaesRamos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPaesRamos&layout=compact&langs_count=6&theme=tokyonight"/>
