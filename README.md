@@ -1,8 +1,4 @@
  <div>
-  <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="[https://www.linkedin.com/in/edududuribeiro/](https://www.linkedin.com/in/rafael-paes-ramos-a7513120a/)">Rafael Ramos 😃️</a>
-  </h1>
    <a href="https://github.com/RafaelPaesRamos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelPaesRamos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPaesRamos&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -30,6 +26,16 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+ <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="[https://www.linkedin.com/in/rafael-paes-ramos-a7513120a/]">Rafael Ramos 😃️</a>
+  </h1>
+  
+## :books: Minha História:
+
+Sempre gostei muito de tecnologia e games, meu primeiro contato com HTML e CSS foi com 13 anos.  Eu tinha um Orkut e adorava trocar o design dele, ficava horas procurando como trocar botões e cores dentro do editor. 
+Com 14 a 15 anos conclui o curso de informática básica, onde também abordava conteúdos de Web Design como HTML, CSS, Photoshop e aplicativos Pacote Office todos de forma básica, porém na época não me aprofundei.
+Em 2021 novamente tive o contato com o Front-End com o curso do SENAI Análise E Desenvolvimento De Sistemas.
 
 <div align="center">
  
