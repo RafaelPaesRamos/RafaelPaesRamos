@@ -1,5 +1,3 @@
-### Oi bem vindo ao meu perfil 👋
-
  <div>
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
